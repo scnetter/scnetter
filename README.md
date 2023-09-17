@@ -1,4 +1,4 @@
-### Hi there 👋
+# About Me
 
 <!--
 **scnetter/scnetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Kelly Netterville
+
+My most recent work experience has been as a Network Engineer and Network Architect with a focus on Security.
+
+Before that I've worked in various roles ranging from Software and Systems Test (Large Scale VoIP Traffic) to Senior Management.
+
