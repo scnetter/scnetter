@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Kelly Netterville
 
-My most recent work experience has been as a Cloud Security manager for a VoIP Service Provider. Before that, I worked as a Network Engineer/Architect.
+My experience has covered multiple roles from Cloud Security manager for a VoIP Service Provider to System Test and Network Engineer/Architect.
 
-Over the years, I've gained experience in various roles ranging from Software and Systems Test (Large Scale VoIP Traffic) to Senior Management.
-
-I've always had a passion for software development and have even worked in a few development roles over the years. I'm currently working to transition into a full-time Software Developmer.
+I've always had a passion for software development and have even worked in a few development roles over the years. I'm currently learning AI Engineering.
 
