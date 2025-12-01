@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Kelly Netterville
 
-My experience has covered multiple roles from Cloud Security manager for a VoIP Service Provider to System Test and Network Engineer/Architect.
+My experience has covered multiple roles from Cloud Security manager for a VoIP Service Provider to System Test and Network Engineer/Architect. I'm currently working as a SOC Analyst.
 
-I've always had a passion for software development and have even worked in a few development roles over the years. I'm currently learning AI Engineering.
+I've always had a passion for software development and have even worked in a few development roles over the years. I've started to dig back into Ruby and Rails. I'm giving myself a year to 
+get more proficient and build some of my own apps and ideas. The goal - longer-term - is to move into a remote development role where I can help support and build apps using Rails. 
 
